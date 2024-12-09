@@ -20,7 +20,7 @@ _______________________________
 pip install pipenv
 mkdir .venv 
 pipenv install --python 3.9 
-pipenv install django requests 
+pipenv install wagtail
 ```
 Install dependencies 
 ``` shell
@@ -28,23 +28,4 @@ pipenv install
 ```
 _______________________________
 
-**Customer journey description**
-
-*Customer Journey*
-
-* The pathologist could create the patient account after the first workshop with parent and patient. He organize online workshop and could check the patient's exercices, adjust the exercices journey if necessary. 
-
-* The parent could choose the pathologist on the platform. The patient (child) could practice and visualize the record after workshop with theirs parents. 
-
-
-________________________________
-**Functionalities**
-
-* Homepage with pathologist research for the parents and the request of the pathologist for an account
-* Responsive interface
-* User authentification :
-    * pathologist create a patient account with password and username
-    * Admin create the pathologist account
-* Exercices journey according to the pathology
-* Record creation's by the patholgist and visualize by the parents
-_____________________________
+**website coming soon!**
