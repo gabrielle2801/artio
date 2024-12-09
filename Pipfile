@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+wagtail = "*"
+python-dotenv = "*"
+mysqlclient = "*"
+wagtailvideos = "*"
+wagtail-embedvideos3 = "*"
+wagtail-django-recaptcha = "*"
+captcha = "*"
+pillow = "*"
+pillow-heif = "==0.17.0"
+django-recaptcha = "*"
+crispy-bootstrap5 = "*"
+wagtailstreamforms = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
